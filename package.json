@@ -1,0 +1,13 @@
+{
+  "name": "dnspod-ddns-client",
+  "version": "0.0.4",
+  "description": "自动更新公网IP到DNSPod",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.1",
+    "request": "^2.81.0"
+  }
+}
